@@ -35,8 +35,6 @@
   ![Audition](https://img.shields.io/badge/-Audition-333333?style=flat&logo=adobe-illustrator)
   ![Topaz](https://img.shields.io/badge/-Topaz-333333?style=flat&logo=adobe-photoshop)
 
-<h3> 🤝🏻 &nbsp;联系方式 </h3>
-
 <p align="center">
 <a href="https://space.bilibili.com/37706580"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-Cyber蝈蝈总-blue?style=flat-square&logo=bilibili"></a>
 <a href="https://www.gtamodx.com/author-64"><img alt="GTAMODX" src="https://img.shields.io/badge/GTAMODX-Cyber蝈蝈总-blue?style=flat-square"></a>
