@@ -2,6 +2,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnF6eGttdWJ2cDR3YnA4Nm80Zmw4bWplNGUyYjdnaWx3NmV6NWlpcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h6c7hGShPQwMs3UBLY/giphy.gif" />
 
+
 <h3> 👨🏻‍💻 &nbsp;关于我 </h3>
 
 - 🤔 &nbsp; 好麦坞知名配音演员，出演GTASA、GTAVC、GTAV等作品的中配模组和二创剧情
@@ -9,7 +10,9 @@
 - 💼 &nbsp; GTA知名MOD作者，SAAI作者，GTAV中配制作组主策划
 - 🌱 &nbsp; 正在学习：AI大模型、智能软件工程
 
+
 <h3> 🛠 &nbsp;技术栈</h3>
+<img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katock-Cricket&theme=synthwave&layout=compact"  alt=""/>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -31,15 +34,6 @@
 - 🖥 &nbsp;
   ![Audition](https://img.shields.io/badge/-Audition-333333?style=flat&logo=adobe-illustrator)
   ![Topaz](https://img.shields.io/badge/-Topaz-333333?style=flat&logo=adobe-photoshop)
-
-<br/>
-
-<a href="https://github.com/Katock-Cricket">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Katock-Cricket&theme=synthwave&show_icons=true"  alt=""/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katock-Cricket&theme=synthwave&layout=compact"  alt=""/>
-</a>
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;联系方式 </h3>
 
