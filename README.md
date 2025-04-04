@@ -12,6 +12,7 @@
 
 
 <h3> 🛠 &nbsp;技术栈</h3>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Katock-Cricket&theme=synthwave&show_icons=true"  alt=""/>
 <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katock-Cricket&theme=synthwave&layout=compact"  alt=""/>
 
 - 💻 &nbsp;
