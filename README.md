@@ -12,8 +12,6 @@
 
 
 <h3> 🛠 &nbsp;技术栈</h3>
-<img align="right" height="140em" src="https://github-readme-stats.vercel.app/api?username=Katock-Cricket&theme=synthwave&show_icons=true"  alt=""/>
-<img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katock-Cricket&theme=synthwave&layout=compact"  alt=""/>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -35,9 +33,15 @@
 - 🖥 &nbsp;
   ![Audition](https://img.shields.io/badge/-Audition-333333?style=flat&logo=adobe-illustrator)
   ![Topaz](https://img.shields.io/badge/-Topaz-333333?style=flat&logo=adobe-photoshop)
+  
+<div align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Katock-Cricket&theme=synthwave&show_icons=true"  alt=""/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katock-Cricket&theme=synthwave&layout=compact"  alt=""/>
+</div>
 
 <p align="center">
 <a href="https://space.bilibili.com/37706580"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-Cyber蝈蝈总-blue?style=flat-square&logo=bilibili"></a>
 <a href="https://www.gtamodx.com/author-64"><img alt="GTAMODX" src="https://img.shields.io/badge/GTAMODX-Cyber蝈蝈总-blue?style=flat-square"></a>
 <a href="mailto:katockcricket@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-katockcricket@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  
 </p>
