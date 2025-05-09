@@ -8,7 +8,7 @@
 - 🤔 &nbsp; 好麦坞知名配音演员，出演GTASA、GTAVC、GTAV等作品的中配模组和二创剧情
 - 🎓 &nbsp; 北京航空航天大学 智能软件工程 硕士在读
 - 💼 &nbsp; GTA知名MOD作者，SAAI作者，GTAV中配制作组主策划
-- 🌱 &nbsp; 研究方向：AI大模型、智能软件工程、AI数据治理、多模态情趣大模型(未来规划)
+- 🌱 &nbsp; 研究方向：AI大模型、智能软件工程、AI数据治理、情趣大模型/机器人(未来规划)
 
 
 <h3> 🛠 &nbsp;技术栈</h3>
@@ -37,6 +37,7 @@
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Katock-Cricket&theme=synthwave&show_icons=true"  alt=""/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katock-Cricket&theme=synthwave&layout=compact"  alt=""/>
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Katock-Cricket&row=1)
 </div>
 
 <p align="center">
