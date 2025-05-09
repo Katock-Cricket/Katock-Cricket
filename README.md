@@ -35,11 +35,10 @@
   ![Topaz](https://img.shields.io/badge/-Topaz-333333?style=flat&logo=adobe-photoshop)
   
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Katock-Cricket&theme=synthwave&show_icons=true"  alt=""/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katock-Cricket&theme=synthwave&layout=compact"  alt=""/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Katock-Cricket&theme=synthwave&show_icons=true" alt=""/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katock-Cricket&theme=synthwave&layout=compact" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Katock-Cricket&row=1&&theme=alduin" alt="trophy"/>
 </div>
-![trophy](https://github-profile-trophy.vercel.app/?username=Katock-Cricket&row=1)
-
 
 <p align="center">
 <a href="https://space.bilibili.com/37706580"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-Cyber蝈蝈总-blue?style=flat-square&logo=bilibili"></a>
