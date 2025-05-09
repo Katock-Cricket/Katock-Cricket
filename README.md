@@ -35,9 +35,9 @@
   ![Topaz](https://img.shields.io/badge/-Topaz-333333?style=flat&logo=adobe-photoshop)
   
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Katock-Cricket&row=1&&theme=alduin" alt="trophy"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Katock-Cricket&theme=synthwave&show_icons=true" alt=""/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katock-Cricket&theme=synthwave&layout=compact" alt=""/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Katock-Cricket&row=1&&theme=alduin" alt="trophy"/>
 </div>
 
 <p align="center">
