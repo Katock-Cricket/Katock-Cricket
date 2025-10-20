@@ -13,26 +13,10 @@
 
 <h3> 🛠 &nbsp;技术栈</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
-  ![Jetbrians IDE](https://img.shields.io/badge/-Jetbrians%20IDE-333333?style=flat&logo=apachenetbeanside)
-- 🖥 &nbsp;
-  ![Audition](https://img.shields.io/badge/-Audition-333333?style=flat&logo=adobe-illustrator)
-  ![Topaz](https://img.shields.io/badge/-Topaz-333333?style=flat&logo=adobe-photoshop)
+- 编程语言：**Python**、TypeScript/JavaScript、C++
+- 技术框架：Pytorch、Langchain、NodeJS
+- 开发环境：**Cursor**、Jetbrains IDE
+- 增效工具：UVR5、Topaz全家桶、Zetero+GPT、GPT-Subtrans、Whisper、SoVITS、CosyVoice2、SenseVoice、Codeformer、Upscayl
   
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Katock-Cricket&row=1&&theme=dracula" alt="trophy"/>
