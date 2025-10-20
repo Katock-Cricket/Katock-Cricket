@@ -16,7 +16,7 @@
 - 编程语言：**Python**、TypeScript/JavaScript、C++
 - 技术框架：Pytorch、Langchain、NodeJS
 - 开发环境：**Cursor**、Jetbrains IDE
-- 增效工具：UVR5、Topaz全家桶、Zetero+GPT、GPT-Subtrans、Whisper、SoVITS、CosyVoice2、SenseVoice、Codeformer、Upscayl
+- 增效工具：UVR5、Topaz全家桶、Zetero+GPT、GPT-Subtrans、Whisper、SoVITS、CosyVoice2、Codeformer、Upscayl
   
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Katock-Cricket&row=1&&theme=dracula" alt="trophy"/>
