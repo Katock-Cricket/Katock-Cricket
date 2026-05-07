@@ -18,10 +18,10 @@
 
 <h3> 🍓 &nbsp;科研/工程项目 </h3>
 
-- 2024-2025：智能IDE程序员个性化数据底座(CCF-A FSE'26接收) - 华为毕方IDE研发项目（核心技术负责人） 
-- 2025-：基于个性化数据底座的高精度光标预测 - 华为毕方IDE研发项目（核心技术负责人）
-- 2024-2026：GTAV国语配音模组v1.0 - 互联网公益项目（核心技术负责人）
-- 2024：首款基于大模型与音色克隆的RenderWare架构游戏智能化引擎 - 互联网开源项目（唯一技术负责人）
+- 2024-2025：智能IDE程序员个性化数据底座(CCF-A FSE'26) - 华为毕方IDE研发项目 
+- 2025-：基于个性化数据底座的高精度光标预测 - 华为毕方IDE研发项目
+- 2024-2026：GTAV国语配音模组v1.0 - 互联网公益项目
+- 2024：首款基于大模型与音色克隆的RenderWare架构游戏智能化引擎 - 互联网开源项目
     
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Katock-Cricket&theme=synthwave&show_icons=true" alt=""/>
